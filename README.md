@@ -27,6 +27,6 @@ ____________________________________________
 #### Details: MERN blog project
 #### Technologies used: JavaScript, NodeJS, ReactJS, HTML, CSS, MongoDB, Express
 #### Ideas for future improvement:
-###### 1. 
-###### 2.
-###### 3.
+###### 1. I want to focus more on user’s information security that how can I improved the system security from any kind of threat because having a website that users can register with their information and having login information is my top priority.
+###### 2. Also, to improve the user's interface by adding more designs and to make it simpler to interact and easy to understand by the users. 
+###### 3. By adding more features that users have many options on how to add posts and see their post with the blog site. And also, by adding extra customization, links and many more.
